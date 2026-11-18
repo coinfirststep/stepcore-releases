@@ -46,7 +46,7 @@ The app is free and not signed, so your system warns you the first time. Open on
 
 <!-- 화면 수정 목록 67번 (2026-11-16) 검토 보완: 한국어 「설치 · 사용 안내」 줄과 짝 -->
 - Install · how-to guides: [Stepcore blog](https://coinfirststep.com/en/stepcore/blog/)
-- Questions, bug reports, live-trading activation or source code requests: Telegram [@coinfirststep](https://t.me/coinfirststep) · KakaoTalk [open chat “코인 첫걸음 연구소” (Coin First Step Lab)](https://open.kakao.com/me/coinfirststep)
+- Questions, bug reports or live-trading activation: Telegram [@coinfirststep](https://t.me/coinfirststep) · KakaoTalk [open chat “코인 첫걸음 연구소” (Coin First Step Lab)](https://open.kakao.com/me/coinfirststep)
 - The installers are free for everyone. The source code is not public.
 
 ---
